@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-rfid-card-reader-detector-module-kit--rc522-",
+  "title": "rfid-card-reader-detector-module-kit--rc522-",
+  "keywords": "rfid-card-reader-detector-module-kit--rc522-, esp32, esp8266, arduino",
+  "description": "rfid-card-reader-detector-module-kit--rc522- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-rfid-card-reader-detector-module-kit--rc522-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-rfid-card-reader-detector-module-kit--rc522-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
